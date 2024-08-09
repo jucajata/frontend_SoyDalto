@@ -1,0 +1,8 @@
+1. Organizar el texto acomonando según el tamaño de la página de vscode
+CTRL + SHIFT + P + Word Wrap + ENTER
+
+2. h$*6 + ENTER
+Crea una lista de 6 tipos de encabezados
+
+3. Solo debe haber un h1 en cada página (ayuda mucho al SEO),
+poner más de un h1 te puede penalizar en los buscadores
