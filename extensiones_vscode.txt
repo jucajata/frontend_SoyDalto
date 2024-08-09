@@ -1,0 +1,5 @@
+Prettier - Code formatter
+indent-rainbow
+Image preview
+Live Server
+Palenight Theme
