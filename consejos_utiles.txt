@@ -12,3 +12,7 @@ poner más de un h1 te puede penalizar en los buscadores
 5. ../archivo.extension - para retroceder una carpeta
 ../../archivo.extension - para retroceder dos carpetas
 carpeta/archivo.extension - para acceder a una carpeta
+
+6. el atributo "required" sirve para que un campo de un formulario sea obligatorio
+
+7. No todos los inputs tienen placeholder
