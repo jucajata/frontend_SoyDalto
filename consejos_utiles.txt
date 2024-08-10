@@ -6,3 +6,5 @@ Crea una lista de 6 tipos de encabezados
 
 3. Solo debe haber un h1 en cada página (ayuda mucho al SEO),
 poner más de un h1 te puede penalizar en los buscadores
+
+4. El alt en la etiqueta img ayuda en el SEO.
