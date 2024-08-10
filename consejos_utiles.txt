@@ -8,3 +8,7 @@ Crea una lista de 6 tipos de encabezados
 poner más de un h1 te puede penalizar en los buscadores
 
 4. El alt en la etiqueta img ayuda en el SEO.
+
+5. ../archivo.extension - para retroceder una carpeta
+../../archivo.extension - para retroceder dos carpetas
+carpeta/archivo.extension - para acceder a una carpeta
