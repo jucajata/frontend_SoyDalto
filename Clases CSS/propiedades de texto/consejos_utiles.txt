@@ -3,3 +3,5 @@
 2. bold = 700; bolder = 900
 
 3. left = start; right = end; mejor start o end por si la página es árabe o no y la coja por defecto
+
+4. Para obtener nuevas fuentes: https://fonts.google.com/
