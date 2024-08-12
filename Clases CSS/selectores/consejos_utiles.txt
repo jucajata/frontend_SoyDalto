@@ -1,0 +1,3 @@
+1. El elemento <span></span> sirve para poder darle estilo a un solo elemento de un listado
+
+2. Solo se le puede asignar un atributo id a un elemento, mientras que se le puede asignar una clase a varios elementos
